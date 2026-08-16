@@ -57,22 +57,29 @@ class ArjunaFransesco:
   
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/ArjunaFransesco">
-    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&card_width=480&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&card_width=650&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
 
-  <!-- GitHub Stats & Most Used Languages -->
+  <!-- Active GitHub Profile Summary Cards -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ArjunaFransesco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="Arjuna's GitHub Stats" width="410" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunaFransesco&theme=tokyonight" alt="Arjuna's Stats" width="360" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaFransesco&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" width="350" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunaFransesco&theme=tokyonight" alt="Top Languages" width="360" />
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- Interactive Dynamic Activity Graph -->
+  <a href="https://github.com/ArjunaFransesco">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaFransesco&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" width="730" />
+  </a>
 
 </div>
 
