@@ -127,7 +127,7 @@ class ArjunaFransesco:
 | :--- | :---: | :--- |
 | 🛡️ [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
 | 🌾 [**dl_cnn**](https://github.com/ArjunaFransesco/dl_cnn) | `Computer Vision` | Klasifikasi penyakit daun padi menggunakan arsitektur ResNet50V2 dengan pHash deduplication. |
-| 📱 [**arjuna-portfolio**](https://github.com/ArjunaFransesco/arjuna-portfolio) | `Frontend & UI` | Website portofolio interaktif berbasis iOS Liquid Glassmorphism dengan live ML simulator. |
+| 📱 [**arjuna-portfolio**](https://github.com/ArjunaFransesco/arjuna-portfolio) • [🌐 Live Web](https://arjunafransesco.github.io/arjuna-portfolio/) | `Frontend & UI` | Website portofolio interaktif berbasis iOS Liquid Glassmorphism dengan live ML simulator. |
 | 🚢 [**titanic-kaggle-ml**](https://github.com/ArjunaFransesco/titanic-kaggle-ml) | `Data Science` | End-to-end exploratory data analysis dan benchmarking model machine learning Kaggle Titanic. |
 | 👕 [**anita-konveksi**](https://github.com/ArjunaFransesco/anita-konveksi) | `Web Engineering` | Sistem manajemen produksi dan inventaris berbasis full-stack Laravel dan MySQL. |
 
