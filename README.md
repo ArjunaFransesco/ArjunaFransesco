@@ -21,8 +21,8 @@
     <a href="https://wa.me/6287753462865" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-    <a href="https://github.com/ArjunaFransesco/arjuna-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Portfolio Badge"/>
+    <a href="https://arjunafransesco.github.io/arjuna-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio%20Live-007AFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </p>
 
