@@ -132,6 +132,7 @@ class ArjunaFransesco:
 
 | Repository | Domain | Highlights |
 | :--- | :---: | :--- |
+| 🫀 [**heart-disease-prediction**](https://github.com/ArjunaFransesco/heart-disease-prediction) | `Healthcare ML` | Stratifikasi risiko penyakit kardiovaskular UCI Cleveland (~0.89 ROC-AUC) & Clinical Decision UI. |
 | 🛡️ [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
 | 🌾 [**dl_cnn**](https://github.com/ArjunaFransesco/dl_cnn) | `Computer Vision` | Klasifikasi penyakit daun padi menggunakan arsitektur ResNet50V2 dengan pHash deduplication. |
 | 📱 [**arjuna-portfolio**](https://github.com/ArjunaFransesco/arjuna-portfolio) • [🌐 Live Web](https://arjunafransesco.github.io/arjuna-portfolio/) | `Frontend & UI` | Website portofolio interaktif berbasis iOS Liquid Glassmorphism dengan live ML simulator. |
