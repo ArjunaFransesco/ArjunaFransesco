@@ -55,28 +55,16 @@ class ArjunaFransesco:
 
 <div align="center">
   
-  <!-- Active GitHub Profile Analytics Cards -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunaFransesco&theme=tokyonight" alt="Profile Details" width="360" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunaFransesco&theme=tokyonight" alt="Arjuna's Stats" width="360" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunaFransesco&theme=tokyonight" alt="Top Languages" width="360" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Interactive Dynamic Activity Graph -->
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/ArjunaFransesco">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaFransesco&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" width="730" />
+    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="550" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Single Interactive Dynamic Activity Graph -->
+  <a href="https://github.com/ArjunaFransesco">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaFransesco&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" width="750" />
   </a>
 
 </div>
