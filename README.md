@@ -55,20 +55,18 @@ class ArjunaFransesco:
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/ArjunaFransesco">
-    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&card_width=650&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FJakarta" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Active GitHub Profile Summary Cards -->
+  <!-- Active GitHub Profile Analytics Cards -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunaFransesco&theme=tokyonight" alt="Arjuna's Stats" width="360" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunaFransesco&theme=tokyonight" alt="Profile Details" width="360" />
       </td>
       <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunaFransesco&theme=tokyonight" alt="Arjuna's Stats" width="360" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunaFransesco&theme=tokyonight" alt="Top Languages" width="360" />
       </td>
     </tr>
