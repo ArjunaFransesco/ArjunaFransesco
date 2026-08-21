@@ -57,7 +57,7 @@ class ArjunaFransesco:
   
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/ArjunaFransesco">
-    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia%2FJakarta" alt="GitHub Streak" width="550" />
+    <img src="https://streak-stats.demolab.com?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Jakarta&v=2" alt="GitHub Streak" width="550" />
   </a>
 
   <br/><br/>
