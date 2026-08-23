@@ -118,6 +118,7 @@ class ArjunaFransesco:
 
 | Repository | Domain | Highlights |
 | :--- | :---: | :--- |
+| 💳 [**kaggle-fraud-transaction-xgboost**](https://github.com/ArjunaFransesco/kaggle-fraud-transaction-xgboost) | `Fintech / Risk` | Deteksi fraud transaksi kartu kredit dengan Cost-Sensitive XGBoost & Streamlit simulator. |
 | 🫀 [**heart-disease-prediction**](https://github.com/ArjunaFransesco/heart-disease-prediction) | `Healthcare ML` | Stratifikasi risiko penyakit kardiovaskular UCI Cleveland (~0.89 ROC-AUC) & Clinical Decision UI. |
 | 🛡️ [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
 | 🌾 [**dl_cnn**](https://github.com/ArjunaFransesco/dl_cnn) | `Computer Vision` | Klasifikasi penyakit daun padi menggunakan arsitektur ResNet50V2 dengan pHash deduplication. |
