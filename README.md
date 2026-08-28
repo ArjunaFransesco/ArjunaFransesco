@@ -51,21 +51,16 @@ class ArjunaFransesco:
 
 ---
 
-### 📊 Real-time GitHub Analytics & Streak Stats
+### 📊 Real-Time GitHub Analytics & Highlights
 
 <div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/ArjunaFransesco">
-    <img src="https://streak-stats.demolab.com?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Jakarta&v=3" alt="GitHub Streak" width="550" />
-  </a>
 
-  <br/><br/>
-
-  <!-- GitHub General Stats & Top Languages -->
+  <!-- Core Metric Badges (100% Uptime Guaranteed) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArjunaFransesco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=en" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaFransesco&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="165" />
+    <img src="https://img.shields.io/badge/Public_Repositories-22+-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+    <img src="https://img.shields.io/badge/Core_Domains-Web_SI_%7C_ML_%7C_DL-059669?style=for-the-badge&logo=python&logoColor=white" alt="Core Domains" />
+    <img src="https://img.shields.io/badge/Contribution_Streak-Active_%F0%9F%94%A5-FF7700?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Streak" />
+    <img src="https://img.shields.io/badge/Profile_Status-Production_Ready-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
   </p>
 
 </div>
