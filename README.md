@@ -57,15 +57,16 @@ class ArjunaFransesco:
   
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/ArjunaFransesco">
-    <img src="https://streak-stats.demolab.com?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Jakarta&v=2" alt="GitHub Streak" width="550" />
+    <img src="https://streak-stats.demolab.com?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Jakarta&v=3" alt="GitHub Streak" width="550" />
   </a>
 
   <br/><br/>
 
-  <!-- Single Interactive Dynamic Activity Graph -->
-  <a href="https://github.com/ArjunaFransesco">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaFransesco&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" width="750" />
-  </a>
+  <!-- GitHub General Stats & Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArjunaFransesco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=en" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaFransesco&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="165" />
+  </p>
 
 </div>
 
