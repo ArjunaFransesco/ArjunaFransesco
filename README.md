@@ -114,6 +114,7 @@ class ArjunaFransesco:
 
 | Repository | Domain | Highlights |
 | :--- | :---: | :--- |
+| 🩻 [**kaggle-chest-xray-pneumonia-cnn**](https://github.com/ArjunaFransesco/kaggle-chest-xray-pneumonia-cnn) | `Deep Learning / CV` | Diagnostik pneumonia citra medis Chest X-Ray dengan ROC-AUC 0.9326 & Clinical Triage UI. |
 | 💳 [**kaggle-fraud-transaction-xgboost**](https://github.com/ArjunaFransesco/kaggle-fraud-transaction-xgboost) | `Fintech / Risk` | Deteksi fraud transaksi kartu kredit dengan Cost-Sensitive XGBoost & Streamlit simulator. |
 | 🫀 [**heart-disease-prediction**](https://github.com/ArjunaFransesco/heart-disease-prediction) | `Healthcare ML` | Stratifikasi risiko penyakit kardiovaskular UCI Cleveland (~0.89 ROC-AUC) & Clinical Decision UI. |
 | 🛡️ [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
