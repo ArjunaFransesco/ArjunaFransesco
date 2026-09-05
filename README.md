@@ -51,15 +51,28 @@ class ArjunaFransesco:
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Highlights
+### 📊 Real-Time GitHub Analytics & Streak Stats
 
 <div align="center">
 
-  <!-- Core Metric Badges (100% Uptime Guaranteed) -->
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/ArjunaFransesco">
+    <img src="https://streak-stats.demolab.com/?user=ArjunaFransesco&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia/Jakarta" alt="GitHub Streak Stats" width="520" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Overall Stats & Top Languages -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Public_Repositories-22+-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ArjunaFransesco&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArjunaFransesco&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="165" />
+  </p>
+
+  <!-- Core Metric Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Public_Repositories-26+-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
     <img src="https://img.shields.io/badge/Core_Domains-Web_SI_%7C_ML_%7C_DL-059669?style=for-the-badge&logo=python&logoColor=white" alt="Core Domains" />
-    <img src="https://img.shields.io/badge/Contribution_Streak-Active_%F0%9F%94%A5-FF7700?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Streak" />
+    <img src="https://img.shields.io/badge/Daily_Streak-Active_%F0%9F%94%A5-FF7700?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Streak" />
     <img src="https://img.shields.io/badge/Profile_Status-Production_Ready-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
   </p>
 
