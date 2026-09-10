@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Banner -->
   <a href="https://github.com/ArjunaFransesco">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi+there%2C+I'm+Arjuna+Fransesco+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;Predictive+Modeling+%7C+Computer+Vision;Building+Intelligent+Data+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi+there%2C+I'm+Arjuna+Fransesco;Data+Scientist+%26+ML+Engineer;Predictive+Modeling+%7C+Computer+Vision;Building+Intelligent+Data+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 ```python
 class ArjunaFransesco:
@@ -51,7 +51,7 @@ class ArjunaFransesco:
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Streak Stats
+### GitHub Analytics & Streak Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ class ArjunaFransesco:
   <p align="center">
     <img src="https://img.shields.io/badge/Public_Repositories-26+-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
     <img src="https://img.shields.io/badge/Core_Domains-Web_SI_%7C_ML_%7C_DL-059669?style=for-the-badge&logo=python&logoColor=white" alt="Core Domains" />
-    <img src="https://img.shields.io/badge/Daily_Streak-Active_%F0%9F%94%A5-FF7700?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Streak" />
+    <img src="https://img.shields.io/badge/Daily_Streak-Active-FF7700?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Streak" />
     <img src="https://img.shields.io/badge/Profile_Status-Production_Ready-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
   </p>
 
@@ -80,7 +80,7 @@ class ArjunaFransesco:
 
 ---
 
-### 🐍 Contribution Graph Activity
+### Contribution Graph Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ArjunaFransesco/ArjunaFransesco/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -88,7 +88,7 @@ class ArjunaFransesco:
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
@@ -96,25 +96,25 @@ class ArjunaFransesco:
     <tr>
       <td align="center" width="20%"><strong>Data Science & ML</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-154A82?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/XGBoost-154A82?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Software & Database</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       </td>
     </tr>
   </table>
@@ -123,22 +123,22 @@ class ArjunaFransesco:
 
 ---
 
-### 🌟 Featured Repositories
+### Featured Repositories
 
 | Repository | Domain | Highlights |
 | :--- | :---: | :--- |
-| 🩻 [**kaggle-chest-xray-pneumonia-cnn**](https://github.com/ArjunaFransesco/kaggle-chest-xray-pneumonia-cnn) | `Deep Learning / CV` | Diagnostik pneumonia citra medis Chest X-Ray dengan ROC-AUC 0.9326 & Clinical Triage UI. |
-| 💳 [**kaggle-fraud-transaction-xgboost**](https://github.com/ArjunaFransesco/kaggle-fraud-transaction-xgboost) | `Fintech / Risk` | Deteksi fraud transaksi kartu kredit dengan Cost-Sensitive XGBoost & Streamlit simulator. |
-| 🫀 [**heart-disease-prediction**](https://github.com/ArjunaFransesco/heart-disease-prediction) | `Healthcare ML` | Stratifikasi risiko penyakit kardiovaskular UCI Cleveland (~0.89 ROC-AUC) & Clinical Decision UI. |
-| 🛡️ [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
-| 🌾 [**dl_cnn**](https://github.com/ArjunaFransesco/dl_cnn) | `Computer Vision` | Klasifikasi penyakit daun padi menggunakan arsitektur ResNet50V2 dengan pHash deduplication. |
-| 📱 [**arjuna-portfolio**](https://github.com/ArjunaFransesco/arjuna-portfolio) • [🌐 Live Web](https://arjunafransesco.github.io/arjuna-portfolio/) | `Frontend & UI` | Website portofolio interaktif berbasis iOS Liquid Glassmorphism dengan live ML simulator. |
-| 🚢 [**titanic-kaggle-ml**](https://github.com/ArjunaFransesco/titanic-kaggle-ml) | `Data Science` | End-to-end exploratory data analysis dan benchmarking model machine learning Kaggle Titanic. |
-| 👕 [**anita-konveksi**](https://github.com/ArjunaFransesco/anita-konveksi) | `Web Engineering` | Sistem manajemen produksi dan inventaris berbasis full-stack Laravel dan MySQL. |
+| [**kaggle-chest-xray-pneumonia-cnn**](https://github.com/ArjunaFransesco/kaggle-chest-xray-pneumonia-cnn) | `Deep Learning / CV` | Diagnostik pneumonia citra medis Chest X-Ray dengan ROC-AUC 0.9326 & Clinical Triage UI. |
+| [**kaggle-fraud-transaction-xgboost**](https://github.com/ArjunaFransesco/kaggle-fraud-transaction-xgboost) | `Fintech / Risk` | Deteksi fraud transaksi kartu kredit dengan Cost-Sensitive XGBoost & Streamlit simulator. |
+| [**heart-disease-prediction**](https://github.com/ArjunaFransesco/heart-disease-prediction) | `Healthcare ML` | Stratifikasi risiko penyakit kardiovaskular UCI Cleveland (~0.89 ROC-AUC) & Clinical Decision UI. |
+| [**customer-churn-prediction**](https://github.com/ArjunaFransesco/customer-churn-prediction) | `ML & Analytics` | Pipeline klasifikasi churn pelanggan IBM Telco (ROC-AUC 0.84+) dengan integrasi Flask Web UI. |
+| [**dl_cnn**](https://github.com/ArjunaFransesco/dl_cnn) | `Computer Vision` | Klasifikasi penyakit daun padi menggunakan arsitektur ResNet50V2 dengan pHash deduplication. |
+| [**arjuna-portfolio**](https://github.com/ArjunaFransesco/arjuna-portfolio) • [Live Web](https://arjunafransesco.github.io/arjuna-portfolio/) | `Frontend & UI` | Website portofolio interaktif berbasis iOS Liquid Glassmorphism dengan live ML simulator. |
+| [**titanic-kaggle-ml**](https://github.com/ArjunaFransesco/titanic-kaggle-ml) | `Data Science` | End-to-end exploratory data analysis dan benchmarking model machine learning Kaggle Titanic. |
+| [**anita-konveksi**](https://github.com/ArjunaFransesco/anita-konveksi) | `Web Engineering` | Sistem manajemen produksi dan inventaris berbasis full-stack Laravel dan MySQL. |
 
 ---
 
 <div align="center">
-  <p>⭐️ <i>"Turning Raw Data into Actionable Decisions & Reliable Code."</i> ⭐️</p>
-  <img src="https://komarev.com/ghpvc/?username=ArjunaFransesco&label=Profile%20Views&color=007AFF&style=flat-square" alt="Profile Views" />
+  <p><i>"Turning Raw Data into Actionable Decisions & Reliable Code."</i></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArjunaFransesco.ArjunaFransesco" alt="Profile Views" />
 </div>
