@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .header { font: 600 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #70a5fd; }
+    .stat { font: 700 28px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #38bdf8; }
+    .stat-current { font: 800 32px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #bf91f3; }
+    .date { font: 400 11px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #787c99; }
+    .ring { stroke: #bf91f3; stroke-width: 4; stroke-linecap: round; }
+  </style>
+  <rect width="495" height="195" rx="12" fill="#1a1b27" />
+  
+  <!-- Total Contributions -->
+  <g transform="translate(82, 48)" text-anchor="middle">
+    <text class="stat" x="0" y="32">440</text>
+    <text class="header" x="0" y="58">Total Contributions</text>
+    <text class="date" x="0" y="80">Sep 14, 2025 - Present</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="165" y1="28" x2="165" y2="167" stroke="#2c2e43" stroke-width="1" />
+
+  <!-- Current Streak (Highlighted) -->
+  <g transform="translate(247, 36)" text-anchor="middle">
+    <circle cx="0" cy="40" r="32" fill="none" stroke="#2c2e43" stroke-width="4" />
+    <circle cx="0" cy="40" r="32" fill="none" class="ring" stroke-dasharray="160 40" stroke-dashoffset="20" />
+    <text class="stat-current" x="0" y="51">37</text>
+    <text class="header" x="0" y="94">Current Streak</text>
+    <text class="date" x="0" y="112">Aug 10 - Sep 15</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="330" y1="28" x2="330" y2="167" stroke="#2c2e43" stroke-width="1" />
+
+  <!-- Longest Streak -->
+  <g transform="translate(412, 48)" text-anchor="middle">
+    <text class="stat" x="0" y="32">37</text>
+    <text class="header" x="0" y="58">Longest Streak</text>
+    <text class="date" x="0" y="80">Aug 10 - Sep 15</text>
+  </g>
+</svg>
