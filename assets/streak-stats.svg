@@ -10,7 +10,7 @@
   
   <!-- Total Contributions -->
   <g transform="translate(82, 48)" text-anchor="middle">
-    <text class="stat" x="0" y="32">440</text>
+    <text class="stat" x="0" y="32">474</text>
     <text class="header" x="0" y="58">Total Contributions</text>
     <text class="date" x="0" y="80">Sep 14, 2025 - Present</text>
   </g>
@@ -22,9 +22,9 @@
   <g transform="translate(247, 36)" text-anchor="middle">
     <circle cx="0" cy="40" r="32" fill="none" stroke="#2c2e43" stroke-width="4" />
     <circle cx="0" cy="40" r="32" fill="none" class="ring" stroke-dasharray="160 40" stroke-dashoffset="20" />
-    <text class="stat-current" x="0" y="51">37</text>
+    <text class="stat-current" x="0" y="51">40</text>
     <text class="header" x="0" y="94">Current Streak</text>
-    <text class="date" x="0" y="112">Aug 10 - Sep 15</text>
+    <text class="date" x="0" y="112">Aug 10 - Sep 18</text>
   </g>
 
   <!-- Divider 2 -->
@@ -32,8 +32,8 @@
 
   <!-- Longest Streak -->
   <g transform="translate(412, 48)" text-anchor="middle">
-    <text class="stat" x="0" y="32">37</text>
+    <text class="stat" x="0" y="32">40</text>
     <text class="header" x="0" y="58">Longest Streak</text>
-    <text class="date" x="0" y="80">Aug 10 - Sep 15</text>
+    <text class="date" x="0" y="80">Aug 10 - Sep 18</text>
   </g>
 </svg>
